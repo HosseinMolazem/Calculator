@@ -9,6 +9,15 @@
 # It can be installed as a mobile app and even used offline. I hope you enjoy my project!
 
  ***
+ # I hope you enjoy my project!
+
+***
+
+
+# [instagram](https://www.instagram.com/debugger._/)
+#  [Telegram](https://t.me/Debugger0)
+
+***
 
 
 # It is responsive on mobile 
